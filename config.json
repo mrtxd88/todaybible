@@ -1,0 +1,22 @@
+{
+  "version_info": {
+    "ios": {
+      "url": "https://www.loccoc.club/",
+      "version": "1.0.0",
+      "shouldUpdate": false,
+      "forceUpdate": false
+    },
+    "android": {
+      "url": "https://www.loccoc.club/",
+      "version": "1.0.0",
+      "shouldUpdate": false,
+      "forceUpdate": false
+    }
+  },
+  "home_message": [
+    "Thời gian hoạt động: 10:00 sáng hằng ngày đến 4:00 sáng ngày hôm sau."
+  ],
+  "reset_player_turn_count": 3,
+  "tp_disable_ios": "1.0.0",
+  "tp_disable_android": "1.0.0"
+}
