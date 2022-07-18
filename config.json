@@ -2,13 +2,13 @@
   "version_info": {
     "ios": {
       "url": "https://www.loccoc.club/",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "shouldUpdate": false,
       "forceUpdate": false
     },
     "android": {
       "url": "https://www.loccoc.club/",
-      "version": "1.0.0",
+      "version": "1.0.2",
       "shouldUpdate": false,
       "forceUpdate": false
     }
