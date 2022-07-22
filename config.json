@@ -3,14 +3,14 @@
     "ios": {
       "url": "https://www.loccoc.club/",
       "version": "1.0.1",
-      "shouldUpdate": true,
-      "forceUpdate": false
+      "should_update": true,
+      "force_update": false
     },
     "android": {
       "url": "https://www.loccoc.club/",
       "version": "1.0.2",
-      "shouldUpdate": false,
-      "forceUpdate": false
+      "should_update": false,
+      "force_update": false
     }
   },
   "home_message": [
