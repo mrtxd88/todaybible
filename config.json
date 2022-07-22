@@ -3,7 +3,7 @@
     "ios": {
       "url": "https://www.loccoc.club/",
       "version": "1.0.1",
-      "shouldUpdate": false,
+      "shouldUpdate": true,
       "forceUpdate": false
     },
     "android": {
