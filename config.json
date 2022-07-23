@@ -17,7 +17,7 @@
     "Thời gian hoạt động: 10:00 sáng hằng ngày đến 4:00 sáng ngày hôm sau."
   ],
   "tx_bet_time": 35,
-  "xd_bet_time: 35,
+  "xd_bet_time": 35,
   "minesweeper_ios": ["1.0.6"],
   "minesweeper_android": ["1.0.0"],
   "reset_player_turn_count": 3,
