@@ -7,9 +7,9 @@
       "force_update": false
     },
     "android": {
-      "url": "https://www.loccoc.club/",
-      "version": "1.0.2",
-      "should_update": false,
+      "url": "https://cdn.loccoc.club/loccoc.apk?version=1.2",
+      "version": "1.0.6",
+      "should_update": true,
       "force_update": false
     }
   },
