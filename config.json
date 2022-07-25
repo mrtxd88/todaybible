@@ -4,13 +4,13 @@
       "url": "https://install.appcenter.ms/users/ahihi1125/apps/loc-coc/distribution_groups/app",
       "version": "1.0.7",
       "should_update": true,
-      "force_update": false
+      "force_update": true
     },
     "android": {
       "url": "https://www.loccoc.club/",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "should_update": true,
-      "force_update": false
+      "force_update": true
     }
   },
   "home_message": [
