@@ -1,22 +1,26 @@
 {
   "version_info": {
     "ios": {
-      "url": "https://www.loccoc.club/",
-      "version": "1.0.0",
-      "shouldUpdate": false,
-      "forceUpdate": false
+      "url": "https://install.appcenter.ms/users/ahihi1125/apps/loc-coc/distribution_groups/app",
+      "version": "1.0.7",
+      "should_update": true,
+      "force_update": true
     },
     "android": {
       "url": "https://www.loccoc.club/",
-      "version": "1.0.0",
-      "shouldUpdate": false,
-      "forceUpdate": false
+      "version": "1.0.7",
+      "should_update": true,
+      "force_update": true
     }
   },
   "home_message": [
     "Thời gian hoạt động: 10:00 sáng hằng ngày đến 4:00 sáng ngày hôm sau."
   ],
+  "tx_bet_time": 35,
+  "xd_bet_time": 35,
+  "minesweeper_ios": ["1.0.8"],
+  "minesweeper_android": ["1.0.0"],
   "reset_player_turn_count": 3,
-  "tp_disable_ios": "1.0.0",
-  "tp_disable_android": "1.0.0"
+  "tp_disable_ios": ["1.0.8"],
+  "tp_disable_android": ["1.0.0"]
 }
