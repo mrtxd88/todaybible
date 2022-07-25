@@ -2,13 +2,13 @@
   "version_info": {
     "ios": {
       "url": "https://install.appcenter.ms/users/ahihi1125/apps/loc-coc/distribution_groups/app",
-      "version": "1.0.7",
+      "version": "1.0.0",
       "should_update": false,
       "force_update": false
     },
     "android": {
       "url": "https://www.loccoc.club/",
-      "version": "1.0.7",
+      "version": "1.0.0",
       "should_update": true,
       "force_update": true
     }
