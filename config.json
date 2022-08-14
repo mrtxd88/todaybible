@@ -8,13 +8,13 @@
     },
     "android": {
       "url": "https://www.loccoc.club/",
-      "version": "1.0.8",
+      "version": "1.1.0",
       "should_update": true,
       "force_update": false
     }
   },
   "home_message": [
-    "Thời gian hoạt động: 10:00 sáng hằng ngày đến 4:00 sáng ngày hôm sau."
+    "Thời gian hoạt động: 10:00 sáng hằng ngày đến 4:00 sáng ngày hôm sau. Khuyến mại 50% khi nạp lần đầu!"
   ],
   "tx_bet_time": 35,
   "xd_bet_time": 35,
